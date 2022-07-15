@@ -1,0 +1,3 @@
+name: Secredchallange
+version: '${project.version}'
+main: at.late.secredchallange.Main
